@@ -18,8 +18,7 @@
 <body class="antialiased">
 <div class="" id="app">
     <example-component />
-    {!! menu('Product') !!}
-
+{{--    {!! menu('Home') !!}--}}
 </div>
 </body>
 <script src="{{ asset('js/app.js') }}" defer></script>
