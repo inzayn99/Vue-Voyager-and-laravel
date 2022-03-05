@@ -18,6 +18,7 @@
 <body class="antialiased">
 <div class="" id="app">
     <example-component />
+    {!! menu('Product') !!}
 
 </div>
 </body>
