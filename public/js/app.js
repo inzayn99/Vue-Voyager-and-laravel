@@ -5277,7 +5277,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   mounted: function mounted() {
     console.log('Component mounted.');
@@ -27884,7 +27883,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "col-md-8" }, [
           _c("div", { staticClass: "card" }, [
             _c("div", { staticClass: "card-header" }, [
-              _vm._v("Welcome to Vue js and voyager"),
+              _c("h1", [_vm._v("Welcome to Vue.js")]),
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
